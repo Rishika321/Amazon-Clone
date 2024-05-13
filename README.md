@@ -1,1 +1,3 @@
-# Amazon-Clone
+# Amazon Clone Project
+
+ This is Amazon Clone project repository! This project is a simplified, non-functional replica of the Amazon website, designed purely for educational and demonstration purposes. It visually mimics the layout and some basic features of the original Amazon website, such as the homepage design, product listings, and user interface elements. Please note that this clone does not include any real functionality; it cannot process orders, manage an actual user database, or handle payments. The purpose of this project is to understand web development concepts through imitation of a familiar e-commerce environment.
